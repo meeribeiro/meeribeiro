@@ -14,7 +14,6 @@ Atualmente trabalhando como designer gráfica.
 </div>
     
     Entre em contato comigo:
-    <p align="left">
   <a href="mailto:mrr16032002@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
