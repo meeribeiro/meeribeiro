@@ -1,16 +1,9 @@
 Olá, eu sou a <strong>Melissa Ribeiro</strong> 💻
 <img src="https://uploaddeimagens.com.br/images/003/073/061/full/computer-illustration.png?1612731879" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Recém formada em Técnico em Informática para Internet pelo IFSUL
+. Formada em Técnico em Informática para Internet pelo IFSUL
 
-Atualmente trabalhando como designer gráfica. 
-
-### | Tecnologias e ferramentas que eu mais utilizo
-<div style="display: inline_block"><br/>
-<img align="center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>                                           <img align="center alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>                                 <img align="center alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  </br>    
- <img align="center alt="js" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>                       <img align="center alt="php" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-</div>
+. Cursando Análise e Desenvolvimento de Sistemas.
     
     Entre em contato comigo:
   <a href="mailto:mrr16032002@gmail.com" alt="Gmail">
